@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Stuti-1919/Stuti-1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Stuti Dave! 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science and Engineering student specialising in Data Science at SVKM NMIMS, Shirpur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm exploring programming, web development, and data science while building my technical skills through academic projects.
+
+## 🚀 About Me
+
+- 🌱 Currently learning and improving my programming skills
+- 💡 Interested in Python, web development, and data science
+- 🛠️ Have worked on academic projects involving HTML, CSS, C++, and other technical tools
+- 🤝 Participated in the Smart India Hackathon (SIH)
+- ✍️ Interested in reading literature, problem-solving, and writing
+
+## 🧰 Skills & Technologies
+
+- **Programming:** Python, R, SQL, Object-Oriented Programming
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** MATLAB, AutoCAD, Canva, Repetier-Host
+
+## 📂 My Projects
+
+- [My First Web Project](https://github.com/Stuti-1919/my-first-web-project) — My beginner web development repository.
+- Virtual Café — An academic project developed using HTML and CSS.
+- Hotel Management System — An academic project.
+- Library Management System — An academic project.
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/stuti-dave-61a582378/)
+- [GitHub Projects](https://github.com/Stuti-1919)
+- [My Portfolio Website](https://stuti-1919.github.io/my-first-web-project/)
